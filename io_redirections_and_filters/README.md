@@ -17,3 +17,4 @@ display number of lines that contain "bin" in the file /etc/passwd
 Display lines containing the pattern "root"  3 lines after them in the file /etc/passwd
 display all lines in file /etc/passwd that do not contain pattrn bin
 replaces all characters A and c from input Z and e
+removes letters cC hiago
