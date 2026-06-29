@@ -18,3 +18,4 @@ Display lines containing the pattern "root"  3 lines after them in the file /etc
 display all lines in file /etc/passwd that do not contain pattrn bin
 replaces all characters A and c from input Z and e
 removes letters cC hiago
+reverse input
