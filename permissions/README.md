@@ -12,3 +12,4 @@ change mode of file hello to olleh
 permission to all subdirectories of current diretory to owner, group owner and all user
 made directory sets permission to ownner rwr, group r, others x
 change group owner of file hello to school
+change owner to vincent and group owner to staff
