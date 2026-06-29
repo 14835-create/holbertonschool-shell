@@ -15,3 +15,4 @@ takes list of words as input and prints only the words that appear exactly once
 lines containing patter "root" from the file /etc/passwd
 display number of lines that contain "bin" in the file /etc/passwd
 Display lines containing the pattern "root"  3 lines after them in the file /etc/passwd
+display all lines in file /etc/passwd that do not contain pattrn bin
