@@ -6,3 +6,4 @@ Script creates empty file called hello
 Execute permission to owner of hello
 permission to ownr and group owner, read permission to others on file hello
 permission to owner, group owner and other users
+owner no permission group no permission others all permission 007
