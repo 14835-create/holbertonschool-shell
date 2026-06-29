@@ -13,3 +13,4 @@ permission to all subdirectories of current diretory to owner, group owner and a
 made directory sets permission to ownner rwr, group r, others x
 change group owner of file hello to school
 change owner to vincent and group owner to staff
+change owner/gorup of _hello vincent:staff
