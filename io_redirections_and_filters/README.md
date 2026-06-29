@@ -9,4 +9,5 @@ file name with symbols containing best school ending by new line
 writes into file cwd content
 duplicate last line of file iacta
 deletes all regular files with .js extension in current directory
-counts number of directories and sub-directories in current directory 
+counts number of directories and sub-directories in current directory
+displays the 10 newest files in current directory 
