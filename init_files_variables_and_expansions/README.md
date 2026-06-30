@@ -4,3 +4,4 @@ add /action to the PATH
 counts number of directories in path
 lists environment variables printenv
 lists all loval variable and environment variables and functions
+created local variable BEST school
