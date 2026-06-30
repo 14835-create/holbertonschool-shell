@@ -5,3 +5,4 @@ counts number of directories in path
 lists environment variables printenv
 lists all loval variable and environment variables and functions
 created local variable BEST school
+creates global variable BEST School
