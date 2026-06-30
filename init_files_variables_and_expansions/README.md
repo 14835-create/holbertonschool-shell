@@ -10,3 +10,4 @@ prints results addition 128 with value stored in environment var TRUEKNOWLEDGE
 printed result POWER \ DIVIDE
 displays result BREATH power of LOVE
 base 10 - BINARY
+prints all possible combinations of two letters a-z except 00
