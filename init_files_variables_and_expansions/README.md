@@ -12,3 +12,4 @@ displays result BREATH power of LOVE
 base 10 - BINARY
 prints all possible combinations of two letters a-z except 00
 prints number with two decimal places in NUM
+DECIMAL converts number base 10 to base 16
