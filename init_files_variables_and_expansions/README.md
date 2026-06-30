@@ -8,3 +8,4 @@ created local variable BEST school
 creates global variable BEST School
 prints results addition 128 with value stored in environment var TRUEKNOWLEDGE
 printed result POWER \ DIVIDE
+displays result BREATH power of LOVE
